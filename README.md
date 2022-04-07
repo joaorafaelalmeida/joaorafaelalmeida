@@ -21,5 +21,3 @@ Peekaboo! I just hacked your webcam and I am watching you reading this…
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=joaorafaelalmeida&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorafaelalmeida&hide=TeX&layout=compact&count_private=true)
-
